@@ -1,0 +1,11 @@
+output:
+```text
+albums/
+  album1/
+    photo1.png
+    photo2.png
+  album2/
+    photo3.png
+    photo4.png
+    photo5.png
+```
